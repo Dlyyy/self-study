@@ -1,2 +1,2 @@
-Python roject
+Python Project
 =================  
